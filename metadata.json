@@ -1,0 +1,6 @@
+{
+  "name": "ImmoWhats - Immobilier Pointe-Noire",
+  "description": "Votre agence immobilière dans votre téléphone à Pointe-Noire (Congo). Composants PropertyCard et WhatsAppButton.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
